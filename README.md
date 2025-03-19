@@ -3,9 +3,8 @@
 **Software Developer | Passionate about Building Innovative Solutions**
 
 - 🌟 I recently graduated from FPT University with a degree in Software Engineering, and I’ve worked with technologies like .NET, Unity, Android Studio, WPF, Winform, React, and more.
-- 🛠 All of my projects are available at [github.com/thangnguyen8520](https://github.com/thangnguyen8520)
+- 🛠 All of my projects are available at [github.com/thangnguyen8520]
 - 📫 How to reach me: thangnguyen85555@gmail.com
-- 💼 Know about my experiences: [linkedin.com/in/thangnguyen8520](https://www.linkedin.com/in/thangnguyen8520)
 - ⚡ Fun fact: I love solving coding challenges and exploring new tech stacks in my free time!
 
 ## Technical Skills
