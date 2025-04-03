@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Thang Nguyen
+# Hi there 👋, I'm Nguyen Pham Quoc Thang
 
 **Software Developer | Passionate about Building Innovative Solutions**
 
